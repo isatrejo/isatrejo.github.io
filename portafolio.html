@@ -2,14 +2,15 @@
 <html lang="en">
 <head>
     <!-- Required meta tags -->
-    <meta charset="utf-8">
+    <meta charset="ISO-8859-1">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
           integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+          integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
 
     <title>Isabel Trejo</title>
@@ -59,75 +60,29 @@
                 </h4>
             </div>
         </div>
-        <div class="row pt-5">
-            <div class="col-12 col-md p-relative">
-                <img src="web/galeria/proyecto1.jpg" class="img-fluid" alt="">
-                <div class="proyecto-inner">
-                    <div class=" p-5 text-white proyecto-inner-sub">
-                        <div class="more-button">
-                            <h1>+</h1>
-                        </div>
-                        <h1>
-                            <b>PRO <br> YE <br> CTO</b>
-                        </h1>
-
-                        <h3>
-                            <i>Ilustración</i>
-                        </h3>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md p-relative">
-                <img src="web/galeria/proyecto2.jpg" class="img-fluid" alt="">
-                <div class="proyecto-inner">
-                    <div class=" p-5 text-white proyecto-inner-sub">
-                        <div class="more-button">
-                            <h1>+</h1>
-                        </div>
-                        <h1>
-                            <b>PRO <br> YE <br> CTO</b>
-                        </h1>
-
-                        <h3>
-                            <i>Ilustración</i>
-                        </h3>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md p-relative">
-                <img src="web/galeria/proyecto3.jpg" class="img-fluid" alt="">
-                <div class="proyecto-inner">
-                    <div class=" p-5 text-white proyecto-inner-sub">
-                        <div class="more-button">
-                            <h1>+</h1>
-                        </div>
-                        <h1>
-                            <b>PRO <br> YE <br> CTO</b>
-                        </h1>
-
-                        <h3>
-                            <i>Ilustración</i>
-                        </h3>
-                    </div>
-                </div>
-            </div>
+        <div class="row pt-5 justify-content-center" id="proyectos">
+            
         </div>
     </div>
 </div>
 <div class="container-fluid pt-5">
-    <div class="row mb-4 portafolio-item ilustracion">
-        <div class="col-12 col-md-6 pt-5 pb-5 text-right text-white offset-md-4">
-            <h1>
-                <b>
-                    ILUS
-                    <br>
-                    TRA
-                    <br>
-                    CIÓN
-                </b>
-            </h1>
-        </div>
-    </div>
+	<a href="proyecto.html?proyecto=ilustracion">
+		<div class="row mb-4 portafolio-item ilustracion">
+			<div class="col-12 col-md-6 pt-5 pb-5 text-right text-white offset-md-4">
+				<h1>
+					<b>
+						ILUS
+						<br>
+						TRA
+						<br>
+						CIÓN
+					</b>
+				</h1>
+			</div>
+		</div>
+	</a>
+    	<a href="proyecto.html?proyecto=branding">
+
     <div class="row mb-4 portafolio-item branding">
         <div class="col-12 col-md-6 pt-5 pb-5 text-right text-white offset-md-4">
             <h1>
@@ -139,6 +94,9 @@
             </h1>
         </div>
     </div>
+	</a>
+		<a href="proyecto.html?proyecto=otros">
+
     <div class="row mb-4 portafolio-item otros">
         <div class="col-12 col-md-6 pt-5 pb-5 text-right text-white offset-md-4">
             <h1>
@@ -148,6 +106,7 @@
             </h1>
         </div>
     </div>
+	</a>
 </div>
 <div class="footer  mt-5 ">
     <div class="container pt-4 pb-4">
@@ -173,5 +132,9 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
         integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
         crossorigin="anonymous"></script>
+<script src="scripts.js"></script>
+<script>
+    buildProyectos();
+</script>
 </body>
 </html>
