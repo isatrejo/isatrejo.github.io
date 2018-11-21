@@ -12,7 +12,6 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
           integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
-
     <title>Isabel Trejo</title>
 </head>
 <body>
@@ -21,7 +20,6 @@
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <i class="fas fa-bars text-white "></i>
     </button>
-
     <div class="collapse navbar-collapse justify-content-around" id="navbarSupportedContent">
         <ul class="navbar-nav justify-content-around align-items-center my-nav mt-5 mb-5">
             <li class="nav-item d-md-none">
@@ -29,11 +27,11 @@
                     <img src="web/galeria/monisa-black.jpg" style="width: 250px;" alt="">
                 </a>
             </li>
-            <li class="nav-item  active">
-                <a class="nav-link " href="index.html">acerca <span class="sr-only">(current)</span></a>
+            <li class="nav-item  ">
+                <a class="nav-link " href="index.html">acerca</a>
             </li>
-            <li class="nav-item ">
-                <a class="nav-link " href="portafolio.html">galería</a>
+            <li class="nav-item active">
+                <a class="nav-link " href="portafolio.html">galería<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item d-none d-md-block ">
                 <a href="index.html">
@@ -44,9 +42,10 @@
                 <a class="nav-link  " href="contacto.html">contacto</a>
             </li>
             <li class="nav-item ">
-                <a href="https://www.facebook.com/t.monisa/"> <img src="web/fb.svg" class="social-link" alt=""></a>
-                <a href="https://www.instagram.com/monisat/"> <img src="web/insta.svg" class="social-link" alt=""></a>
-                <a href="https://www.behance.net/Beleseri" target="_blank"><img src="web/behance.svg" class="social-link" alt=""></a>
+                <a href="https://www.facebook.com/t.monisa/" target="_blank"> <img src="web/fb.svg" class="social-link" alt=""></a>
+                <a href="https://www.instagram.com/monisat/" target="_blank"> <img src="web/insta.svg" class="social-link" alt=""></a>
+                <a href="https://www.behance.net/Beleseri" target="_blank"><img src="web/behance.svg"
+                                                                                class="social-link" alt=""></a>
             </li>
         </ul>
     </div>
@@ -56,60 +55,62 @@
     <div class="container pt-5">
         <div class="row align-items-center">
             <div class="col-12 text-center">
-                <h4>
+                <h1><b>Proyectos Destacados</b></h1>
+            </div>
+        </div>
+        <div class="row pt-5 justify-content-center" id="principales"></div>
+        <div class="row pt-5 align-items-center">
+            <div class="col-12 text-center">
+                <h3>
                     Conoce los proyectos sobresalientes, y explora en las
                     <br>
                     diferentes categorías del portafolio
-                </h4>
+                </h3>
             </div>
         </div>
-        <div class="row pt-5 justify-content-center" id="proyectos">
-            
-        </div>
+        <div class="row pt-5 justify-content-center" id="proyectos"></div>
     </div>
 </div>
 <div class="container-fluid pt-5">
-	<a href="proyecto.html?proyecto=ilustracion">
-		<div class="row mb-4 portafolio-item ilustracion">
-			<div class="col-12 col-md-6 pt-5 pb-5 text-right text-white offset-md-4">
-				<h1>
-					<b>
-						ILUS
-						<br>
-						TRA
-						<br>
-						CIÓN
-					</b>
-				</h1>
-			</div>
-		</div>
-	</a>
-    	<a href="proyecto.html?proyecto=branding">
-
-    <div class="row mb-4 portafolio-item branding">
-        <div class="col-12 col-md-6 pt-5 pb-5 text-right text-white offset-md-4">
-            <h1>
-                <b>
-                    BRAN
-                    <br>
-                    DING
-                </b>
-            </h1>
+    <a class="cleanup-link" href="proyecto.html?proyecto=ilustracion">
+        <div class="row mb-4 portafolio-item ilustracion">
+            <div class="col-12 col-md-6 pt-5 pb-5 text-right text-white offset-md-4 ">
+                <h1>
+                    <b>
+                        ILUS
+                        <br>
+                        TRA
+                        <br>
+                        CIÓN
+                    </b>
+                </h1>
+            </div>
         </div>
-    </div>
-	</a>
-		<a href="proyecto.html?proyecto=otros">
-
-    <div class="row mb-4 portafolio-item otros">
-        <div class="col-12 col-md-6 pt-5 pb-5 text-right text-white offset-md-4">
-            <h1>
-                <b>
-                    OTROS
-                </b>
-            </h1>
+    </a>
+    <a class="cleanup-link" href="proyecto.html?proyecto=branding">
+        <div class="row mb-4 portafolio-item branding">
+            <div class="col-12 col-md-6 pt-5 pb-5 text-right text-white offset-md-4 ">
+                <h1>
+                    <b>
+                        BRAN
+                        <br>
+                        DING
+                    </b>
+                </h1>
+            </div>
         </div>
-    </div>
-	</a>
+    </a>
+    <a class="cleanup-link" href="proyecto.html?proyecto=otros">
+        <div class="row mb-4 portafolio-item otros">
+            <div class="col-12 col-md-6 pt-5 pb-5 text-right text-white offset-md-4 ">
+                <h1>
+                    <b>
+                        OTROS
+                    </b>
+                </h1>
+            </div>
+        </div>
+    </a>
 </div>
 <div class="footer  mt-5 ">
     <div class="container pt-4 pb-4">
