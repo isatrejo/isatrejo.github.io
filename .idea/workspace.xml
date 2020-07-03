@@ -3,53 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bf8db864-de6c-4472-8726-ddbf308cf890" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portafolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portafolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/ASD/._detalle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/ASD/._detalle2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/ASD/._detalle3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/ASD/._detalle4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/ASD/._detalle5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/ASD/._portada.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/Amigos/._1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/Amigos/._2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/Amigos/._3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/Amigos/._4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/artemis/._detalle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/artemis/._portada.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/chanin chanin/._1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/chanin chanin/._2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/chanin chanin/._3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/chanin chanin/._4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/outsiders/._detalle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/outsiders/._portada.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/principito/._detalle1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/principito/._detalle2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/principito/._detalle3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/principito/._detalle4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/principito/._portada.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/refrescante-verano/._detalle1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/refrescante-verano/._detalle2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/refrescante-verano/._detalle3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/refrescante-verano/._portada.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/van-gogh/._detalle1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/van-gogh/._detalle2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/van-gogh/._detalle3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/van-gogh/._detalle4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/van-gogh/._portada.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/verbena/._detalle1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/verbena/._portada.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/viajero/._detalle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/viajero/._detalle2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/viajero/._detalle3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/__MACOSX/detalle de proyecto/viajero/._portada.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/detalle-de-proyecto/van-gogh/detalle1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/detalle-de-proyecto/van-gogh/detalle2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/detalle-de-proyecto/van-gogh/detalle3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/detalle-de-proyecto/van-gogh/detalle4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/detalle-de-proyecto/van-gogh/portada.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +66,7 @@
       <updated>1542672280909</updated>
       <workItem from="1542672282803" duration="1987000" />
       <workItem from="1542743492601" duration="11079000" />
-      <workItem from="1593741394478" duration="4424000" />
+      <workItem from="1593741394478" duration="5851000" />
     </task>
     <servers />
   </component>

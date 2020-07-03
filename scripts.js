@@ -35,7 +35,7 @@ const proyectosData = {
     portada: "parque-naciones-unidas/portada.jpg",
     titulo: "Parque Naciones Unidas",
     descripcion: "El Parque Naciones Unidas se ha dedicado a la conservacio\u00F3n de la flora y fauna por m\u00E1s de 22 a\u00F1os; enfoc\u00E1ndose en el sector educativo, trabajador y familiar de Guatemala. Se trabajo branding bajo el concepto de 'H\u00E1bitats y experiencias conectadas' reflejando los diferentes ecosistemas que dentro del parque se pueden encontrar, buscando conectar la marca a un grupo m\u00E1s j\u00F3ven y de esa manera darle un look and feel m\u00E1s fresco.",
-    imagenes: ["parque-naciones-unidas/logo.jpg", "parque-naciones-unidas/logo2.jpg", "parque-naciones-unidas/logo3.jpg", "parque-naciones-unidas/logo4.jpg"]
+    imagenes: ["parque-naciones-unidas/logo.jpg", "parque-naciones-unidas/logo2.jpg", "parque-naciones-unidas/logo3.jpg", "parque-naciones-unidas/logo4.jpg", "parque-naciones-unidas/logo5.jpg"]
   },
   Refrescanteyrelajanteverano: {
     banner: "refrescante-verano/portada.jpg",
